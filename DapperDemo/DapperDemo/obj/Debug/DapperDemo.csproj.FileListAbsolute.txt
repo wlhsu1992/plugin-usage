@@ -1,0 +1,9 @@
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\DapperDemo\DapperDemo\obj\Debug\DapperDemo.csproj.AssemblyReference.cache
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\DapperDemo\DapperDemo\obj\Debug\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe.config
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\DapperDemo\DapperDemo\bin\Debug\DapperDemo.exe
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\DapperDemo\DapperDemo\bin\Debug\DapperDemo.pdb
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\DapperDemo\DapperDemo\bin\Debug\Dapper.dll
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\DapperDemo\DapperDemo\bin\Debug\Dapper.xml
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\DapperDemo\DapperDemo\obj\Debug\DapperDemo.exe
+C:\Users\WeiLin.Hsu\OneDrive\桌面\TEST\DapperDemo\DapperDemo\obj\Debug\DapperDemo.pdb
